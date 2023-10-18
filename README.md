@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Ecommerce website**
 
-- 🌱 I’m currently learning **PHP,React**
+- 🌱 I’m currently learning **PHP,JS**
 
-- 💬 Ask me about **HTML , CSS , JS , PHP**
+- 💬 Ask me about **HTML , CSS , Power BI**
 
 - 📫 How to reach me **Ali.saadatvand@gmail.com**
 
